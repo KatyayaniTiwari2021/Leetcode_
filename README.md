@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
