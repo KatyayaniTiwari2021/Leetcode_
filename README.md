@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
+## Math
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
