@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [1046-last-stone-weight](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1049-last-stone-weight-ii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -91,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
