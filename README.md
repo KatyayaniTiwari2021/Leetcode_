@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0617-merge-two-binary-trees) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0617-merge-two-binary-trees) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0617-merge-two-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0617-merge-two-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1448-count-good-nodes-in-binary-tree) |
