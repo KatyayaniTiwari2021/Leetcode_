@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0572-subtree-of-another-tree) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
