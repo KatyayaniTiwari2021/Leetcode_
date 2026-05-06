@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0328-odd-even-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
