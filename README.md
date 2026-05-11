@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
