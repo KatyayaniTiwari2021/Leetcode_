@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1861-rotating-the-box](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1914-cyclically-rotating-a-grid) |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
 ## Heap (Priority Queue)
