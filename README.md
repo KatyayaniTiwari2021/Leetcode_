@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -280,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
