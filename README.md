@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0875-koko-eating-bananas) |
