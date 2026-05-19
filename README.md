@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0617-merge-two-binary-trees) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
