@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0538-convert-bst-to-greater-tree) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
