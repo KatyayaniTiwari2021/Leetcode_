@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
