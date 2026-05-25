@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [1049-last-stone-weight-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3660-jump-game-ix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0006-zigzag-conversion) |
 | [0796-rotate-string](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0831-masking-personal-information) |
+| [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
 ## Heap (Priority Queue)
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
