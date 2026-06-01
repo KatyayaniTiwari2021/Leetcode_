@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2553-separate-the-digits-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Database
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
