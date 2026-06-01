@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0006-zigzag-conversion) |
+| [0520-detect-capital](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0831-masking-personal-information) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
