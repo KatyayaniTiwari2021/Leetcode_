@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Depth-First Search
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [1861-rotating-the-box](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
