@@ -3,9 +3,15 @@ class Solution {
         
         int n = nums.length;
 
-        Arrays.sort(nums);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
-        long diff = 1L* (nums[n - 1]  - nums[0]) * k;
+        for(int num : nums){
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
+
+        long diff = 1L* (max  - min) * k;
 
         return diff;
         
