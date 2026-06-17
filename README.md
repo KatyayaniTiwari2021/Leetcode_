@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0518-coin-change-ii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
