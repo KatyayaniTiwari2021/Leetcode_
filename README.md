@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0152-maximum-product-subarray) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3691-maximum-total-subarray-value-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
