@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
