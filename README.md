@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0831-masking-personal-information) |
+| [1189-maximum-number-of-balloons](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
+| [1189-maximum-number-of-balloons](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
 ## Math
