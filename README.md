@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3838-weighted-word-mapping) |
 ## Binary Search Tree
 |  |
