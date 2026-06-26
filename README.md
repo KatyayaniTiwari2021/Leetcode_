@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -413,10 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Segment Tree
 |  |
 | ------- |
