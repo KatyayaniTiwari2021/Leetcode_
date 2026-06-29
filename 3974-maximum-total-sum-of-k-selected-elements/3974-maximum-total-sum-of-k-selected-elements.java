@@ -8,7 +8,7 @@ class Solution {
         long sum = 0;
 
         for(int i = n - 1; i >= n - k ; i--){
-            if(mul > 1){
+            if(mul > 0){
                 sum += 1l * nums[i] * mul;
                 
             }
