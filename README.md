@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0006-zigzag-conversion) |
 | [0520-detect-capital](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0520-detect-capital) |
+| [0583-delete-operation-for-two-strings](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0831-masking-personal-information) |
 | [1143-longest-common-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1143-longest-common-subsequence) |
