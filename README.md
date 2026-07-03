@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3660-jump-game-ix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Breadth-First Search
@@ -329,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 ## Counting
 |  |
 | ------- |
@@ -477,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
