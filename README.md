@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [1049-last-stone-weight-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
