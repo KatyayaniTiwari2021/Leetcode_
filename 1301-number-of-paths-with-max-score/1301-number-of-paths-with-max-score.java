@@ -1,50 +1,110 @@
 class Solution {
+    Integer[][] dp1;
+    Integer[][] dp2;
 
-    private final int MOD = 1000000007;
+    static int MOD = 1000000007;
 
     public int[] pathsWithMaxScore(List<String> board) {
         int n = board.size();
-        int[][][] dp = new int[n][n][2];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                dp[i][j][0] = -1;
-            }
-        }
-        dp[n - 1][n - 1][0] = 0;
-        dp[n - 1][n - 1][1] = 1;
 
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = n - 1; j >= 0; j--) {
-                if (
-                    !(i == n - 1 && j == n - 1) && board.get(i).charAt(j) != 'X'
-                ) {
-                    update(dp, i, j, i + 1, j, n);
-                    update(dp, i, j, i, j + 1, n);
-                    update(dp, i, j, i + 1, j + 1, n);
-                    if (dp[i][j][0] != -1) {
-                        dp[i][j][0] +=
-                            board.get(i).charAt(j) == 'E'
-                                ? 0
-                                : board.get(i).charAt(j) - '0';
-                    }
-                }
-            }
+        int m = board.get(0).length();
+
+        dp1 = new Integer[101][101];
+        dp2 = new Integer[101][101];
+
+        
+        int max = solve(n - 1, m - 1, board);
+
+        if(max < 0){
+            return new int[]{0,0};
         }
-        if (dp[0][0][0] != -1) {
-            return new int[] { dp[0][0][0], dp[0][0][1] % MOD };
-        }
-        return new int[] { 0, 0 };
+
+        int ways = totalPath(n - 1, m - 1,board);
+
+        return new int[]{max, ways % MOD};
+        
     }
 
-    private void update(int[][][] dp, int x, int y, int u, int v, int n) {
-        if (u >= n || v >= n || dp[u][v][0] == -1) {
-            return;
+    public int solve(int i, int j, List<String> list){
+
+        if(i < 0 || j < 0) return -(int)1e9;
+
+        if((list.get(i)).charAt(j) == 'X') return -(int)1e9;
+
+        if(i == 0 && j == 0){
+            return 0;
         }
-        if (dp[u][v][0] > dp[x][y][0]) {
-            dp[x][y][0] = dp[u][v][0];
-            dp[x][y][1] = dp[u][v][1];
-        } else if (dp[u][v][0] == dp[x][y][0]) {
-            dp[x][y][1] = (dp[x][y][1] + dp[u][v][1]) % MOD;
+
+       
+
+        if(dp1[i][j]!= null){
+            return dp1[i][j];
         }
+        
+        int val = 0;
+
+        char ch = list.get(i).charAt(j);
+
+        if(ch >= '0' && ch <= '9'){
+
+            val = ch - '0';
+
+        }
+
+        int up = solve(i - 1, j, list);
+        int left = solve(i, j-1, list);
+        int up_left = solve(i - 1, j-1, list);
+
+        int best = Math.max(up, Math.max(left, up_left));
+
+        return dp1[i][j] = best + val;
+
+
+    }
+
+    public int totalPath(int i, int j, List<String> list){
+        if(i < 0 || j < 0) return 0;
+
+        if((list.get(i)).charAt(j) == 'X') return 0;
+
+        if(i == 0 && j == 0){
+            return 1;
+        }
+
+        if(dp2[i][j] != null){
+            return dp2[i][j];
+        }
+        
+        int val = 0;
+
+        char ch = list.get(i).charAt(j);
+
+        if(ch >= '0' && ch <= '9'){
+
+            val = ch - '0';
+
+        }
+
+        int up = solve(i - 1, j, list);
+        int left = solve(i, j-1, list);
+        int up_left =  solve(i - 1, j-1, list);
+
+        int score = Math.max(up, Math.max(left, up_left));
+
+        long ways = 0;
+        if(up == score){
+            ways += totalPath(i - 1, j, list);
+        }
+
+        if(left == score){
+            ways += totalPath(i, j- 1, list);
+        }
+
+        if(up_left == score){
+            ways += totalPath(i - 1, j-1,  list);
+        }
+
+        return dp2[i][j] = (int)(ways % MOD);
+
     }
 }
