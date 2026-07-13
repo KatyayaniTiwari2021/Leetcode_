@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0540-single-element-in-a-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
 | [1861-rotating-the-box](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2161-partition-array-according-to-given-pivot) |
