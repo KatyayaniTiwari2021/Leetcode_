@@ -1,10 +1,9 @@
 class Solution {
 
-    int  n;
+    boolean[] vis;
+    public int findCircleNum(int[][] grid) {
 
-    public int findCircleNum(int[][] isConnected) {
-
-        n = isConnected.length;
+        int n = grid.length;
 
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
@@ -12,39 +11,43 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-
-
-        boolean[] vis = new boolean[n];
-
-        int components = 0;
-
         for(int i = 0; i < n; i++){
+
             for(int j = 0; j < n; j++){
-                if(isConnected[i][j] == 1){
+
+                if(grid[i][j] == 1){
+
                     adj.get(i).add(j);
-        
+                    
+
                 }
             }
         }
-        for(int i = 0; i < n; i++){
-           if(vis[i] == false){
-            dfs(adj, vis, i);
-            components++;
 
-           }
+        int components = 0;
+
+        vis = new boolean[n];
+
+        for(int i = 0; i < n; i++){
+            if(!vis[i]){
+                dfs(i, adj, grid);
+                components++;
+            }
         }
+
         return components;
 
         
     }
 
-    private void dfs(ArrayList<ArrayList<Integer>> adj, boolean[] vis, int src){
+    private void dfs(int src, ArrayList<ArrayList<Integer>> adj, int[][] grid){
 
         vis[src] = true;
 
-        for(int adjNode : adj.get(src)){
-            if(vis[adjNode] == false){
-                dfs(adj, vis, adjNode);
+        for(int neigh : adj.get(src)){
+            if(!vis[neigh]){
+                dfs(neigh, adj, grid);
+                vis[neigh] = true;
             }
         }
     }
