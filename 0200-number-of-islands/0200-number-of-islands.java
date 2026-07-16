@@ -1,50 +1,56 @@
 class Solution {
 
-    static int[] dr = {1, -1, 0, 0};
+    static int[] dr = {-1, 1, 0, 0};
     static int[] dc = {0, 0, -1, 1};
 
     public int numIslands(char[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
 
-        boolean[][] visited = new boolean[m][n];
-        
+        int n = grid.length;
+        int m = grid[0].length;
+
         int components = 0;
 
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(grid[i][j] == '1' && !visited[i][j]){
-                    dfs(i, j, grid, visited );
+        boolean[][] vis = new boolean[n][m];
+
+        for(int i = 0; i < n; i++){
+
+            for(int j = 0; j < m; j++){
+
+                if(!vis[i][j] && grid[i][j] == '1'){
+                    dfs(i, j, grid, vis);
                     components++;
                 }
             }
-        }
 
+        }
         return components;
         
     }
-    private void dfs(int i, int j, char[][] grid, boolean[][] visited){
-        
-        int m = grid.length;
-        int n = grid[0].length;
 
-        if(i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == '0') return;
+    private void dfs(int i, int j, char[][] grid, boolean[][] vis){
 
-        if(visited[i][j] == true) return;
+        int n = grid.length;
+        int m = grid[0].length;
 
-        visited[i][j] = true;
+        //boundary condition
 
-        for(int k = 0; k < 4; k++){
-            dfs(i + dr[k], j + dc[k], grid, visited);
+        if(i >= n || j >= m || i < 0 || j < 0 || vis[i][j] || grid[i][j] == '0'){
+            return;
         }
 
-        
+        vis[i][j] = true;
 
-        
-        
 
-        
+        for(int idx = 0; idx < 4; idx++){
 
+            int nr = i + dr[idx];
+            int nc = j + dc[idx];
+             
+            dfs(nr, nc, grid, vis);
+                
+            
+        }
 
     }
+
 }
