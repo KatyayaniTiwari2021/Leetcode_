@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-network-recovery-pathways](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -378,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -519,7 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
