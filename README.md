@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3689-maximum-total-subarray-value-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
