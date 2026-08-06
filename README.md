@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
