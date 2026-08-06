@@ -19,9 +19,9 @@ class Solution {
 
         if(dp[i][j] != null) return dp[i][j];
 
-        int right =  solve(i, j + 1, grid);
-        int down =  solve(i + 1, j, grid);
+        int right =  grid[i][j] + solve(i, j + 1, grid);
+        int down =  grid[i][j] + solve(i + 1, j, grid);
 
-        return dp[i][j] =  grid[i][j] + Math.min(right, down);
+        return dp[i][j] =  Math.min(right, down);
     }
 }
