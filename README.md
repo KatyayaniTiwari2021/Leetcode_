@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0542-01-matrix) |
