@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
