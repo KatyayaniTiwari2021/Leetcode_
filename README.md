@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2615-sum-of-distances) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3312-sorted-gcd-pair-queries) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
