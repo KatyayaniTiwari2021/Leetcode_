@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
