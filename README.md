@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0338-counting-bits) |
+| [1386-cinema-seat-allocation](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3514-number-of-unique-xor-triplets-ii) |
