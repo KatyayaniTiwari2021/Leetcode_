@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1049-last-stone-weight-ii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
+| [0922-sort-array-by-parity-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
+| [0922-sort-array-by-parity-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0922-sort-array-by-parity-ii) |
 | [1861-rotating-the-box](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2149-rearrange-array-elements-by-sign) |
