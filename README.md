@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0486-predict-the-winner) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0646-maximum-length-of-pair-chain) |
