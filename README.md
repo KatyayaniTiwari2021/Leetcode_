@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1927-sum-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -693,17 +695,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
