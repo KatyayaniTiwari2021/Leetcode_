@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0525-contiguous-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
