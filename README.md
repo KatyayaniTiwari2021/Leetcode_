@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
