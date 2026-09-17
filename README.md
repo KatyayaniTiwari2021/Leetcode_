@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1861-rotating-the-box) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1871-jump-game-vii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/KatyayaniTiwari2021/Leetcode_/tree/master/3225-maximum-score-from-grid-operations) |
