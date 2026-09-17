@@ -1,6 +1,6 @@
 class Solution {
 
-    long[][] dp;
+    Long[][] dp;
 
     int n;
 
@@ -8,11 +8,11 @@ class Solution {
 
         n = nums.length;
 
-        dp = new long[n][2];
+        dp = new Long[n][2];
 
-        for(long[] row : dp){
-            Arrays.fill(row, Long.MIN_VALUE);
-        }
+        // for(long[] row : dp){
+        //     Arrays.fill(row, Long.MIN_VALUE);
+        // }
 
         return solve(nums, 0, 0);
 
@@ -24,7 +24,7 @@ class Solution {
             return 0;
         }
 
-        if(dp[i][state] != Long.MIN_VALUE){
+        if(dp[i][state] != null){
             return dp[i][state];
         }
 
